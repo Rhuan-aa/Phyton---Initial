@@ -1,1 +1,1 @@
-Olá esse projeto ensina você a usar o Git
+Esse repositório contém projetos básicos em python.
